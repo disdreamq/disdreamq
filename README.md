@@ -46,7 +46,7 @@ Currently actively seeking for position as a **Junior Python Developer**.
 I'm open to job offers, internships, or contributions to interesting open‑source projects.  
 If you have an idea or a vacancy — drop me a message on Telegram or email. I reply quickly and take ownership of tasks.
 
-**By the way:** my [PDF resume](link to Google Drive / file) is always available.
+**By the way:** my [PDF resume](link) is always available.
 
 ---
 
