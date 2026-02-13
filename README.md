@@ -3,12 +3,12 @@
 I'm Vladislav Yarkov, a Python developer. Writing code, solving algorithmic and math problems.  
 Currently actively seeking for position as a **Junior Python Developer**.  
 
-🇷🇺 Based in Rostov-on-Don | 🌍 Open to remote work  
-📫 Reach me at: [Telegram](link) | [Email](mailto:...)
+Based in Russia, Rostov-on-Don | Open to remote work  
+Reach me at: [Telegram](link) | [Email](mailto:...)
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python) 
@@ -34,14 +34,14 @@ Currently actively seeking for position as a **Junior Python Developer**.
 
 ---
 
-## 📝 Currently Learning
+## Currently Learning
 
 - Kafka, RabbitMQ    
 - Kubernetes
 
 ---
 
-## 🤝 How Can We Work Together?
+## How Can We Work Together?
 
 I'm open to job offers, internships, or contributions to interesting open‑source projects.  
 If you have an idea or a vacancy — drop me a message on Telegram or email. I reply quickly and take ownership of tasks.
@@ -50,4 +50,4 @@ If you have an idea or a vacancy — drop me a message on Telegram or email. I r
 
 ---
 
-⭐️ If you like my profile or any of my projects — feel free to star the repos, it really motivates me!
+If you like my profile or any of my projects — feel free to star the repos, it really motivates me!
