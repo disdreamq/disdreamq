@@ -1,7 +1,7 @@
-# Hi, I'm Vladislav Yarkov 👋
+# Hello there 👋 
 
-I'm a Python developer who loves writing code, solving algorithmic and math problems.  
-I'm currently actively seeking a position as a **Junior Python Developer**.  
+I'm Vladislav Yarkov, a Python developer. Writing code, solving algorithmic and math problems.  
+Currently actively seeking for position as a **Junior Python Developer**.  
 
 🇷🇺 Based in Rostov-on-Don | 🌍 Open to remote work  
 📫 Reach me at: [Telegram](link) | [Email](mailto:...)
@@ -34,37 +34,10 @@ I'm currently actively seeking a position as a **Junior Python Developer**.
 
 ---
 
-## 📌 My Projects
-
-### 1. [URL Shortener with Analytics](repository link)
-FastAPI + PostgreSQL + Redis + JWT. Layered architecture, repositories, DI, tests.  
-🔹 Full OpenAPI documentation  
-🔹 Caching for popular links  
-🔹 Docker Compose to spin up the whole stack with one command
-
-### 2. [Telegram Moderation Bot](repository link)
-Aiogram + SQLAlchemy + Redis. Real‑world production deployment on a client's server.  
-🔹 Ad removal based on custom blacklists per chat  
-🔹 Automated posting with exponential backoff  
-🔹 Logging and monitoring via systemd
-
-*Both projects are covered with tests (Pytest), use async/await and follow best practices.*
-
----
-
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📝 Currently Learning
 
-- Kafka / RabbitMQ (message brokers)  
-- Microservices architecture  
-- Kubernetes (container orchestration)
+- Kafka, RabbitMQ    
+- Kubernetes
 
 ---
 
