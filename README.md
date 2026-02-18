@@ -4,7 +4,7 @@ I'm Vladislav Yarkov, a Python developer. Writing code, solving algorithmic and 
 Currently actively seeking for position as a **Junior Python Developer**.  
 
 Based in Russia, Rostov-on-Don | Open to remote work  
-Reach me at: [Telegram](link) | [Email](mailto:...)
+Reach me at: [Telegram](link) | [Email](vlaseyar@gmail.com)
 
 ---
 
@@ -36,7 +36,8 @@ Reach me at: [Telegram](link) | [Email](mailto:...)
 
 ## Currently Learning
 
-- Kafka, RabbitMQ    
+- Kafka
+- RabbitMQ    
 - Kubernetes
 
 ---
