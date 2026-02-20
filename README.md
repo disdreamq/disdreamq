@@ -49,7 +49,7 @@ Reach me at:
 I'm open to job offers, internships, or contributions to interesting open‑source projects.  
 If you have an idea or a vacancy — drop me a message on Telegram or email. I reply quickly and take ownership of tasks.
 
-**By the way:** my [PDF resume](https://docs.google.com/document/d/1fpynWr8t-cmxknmekKV-Gyi_09txJG4Stb2rrUCC8as/edit?usp=sharing) is always available.
+**By the way:** my [resume](https://docs.google.com/document/d/1fpynWr8t-cmxknmekKV-Gyi_09txJG4Stb2rrUCC8as/edit?usp=sharing) is always available.
 
 ---
 
